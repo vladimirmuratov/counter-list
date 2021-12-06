@@ -1,0 +1,9 @@
+.counter_container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.counter_container span {
+    flex-basis: 120px;
+}
